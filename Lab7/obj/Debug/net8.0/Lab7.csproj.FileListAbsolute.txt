@@ -1,0 +1,15 @@
+/workspaces/ProgrammingLogicBackUp/Lab7/bin/Debug/net8.0/Lab7
+/workspaces/ProgrammingLogicBackUp/Lab7/bin/Debug/net8.0/Lab7.deps.json
+/workspaces/ProgrammingLogicBackUp/Lab7/bin/Debug/net8.0/Lab7.runtimeconfig.json
+/workspaces/ProgrammingLogicBackUp/Lab7/bin/Debug/net8.0/Lab7.dll
+/workspaces/ProgrammingLogicBackUp/Lab7/bin/Debug/net8.0/Lab7.pdb
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfoInputs.cache
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfo.cs
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.csproj.CoreCompileInputs.cache
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.sourcelink.json
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.dll
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/refint/Lab7.dll
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.pdb
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/Lab7.genruntimeconfig.cache
+/workspaces/ProgrammingLogicBackUp/Lab7/obj/Debug/net8.0/ref/Lab7.dll
